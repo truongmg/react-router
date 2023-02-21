@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "nothing 123 23",
+      "datetime": "Feb 21, 2023 2:17:04 PM",
+      "body": "nothing 312 43"
+    },
+    {
+      "id": 2,
+      "title": "hohoho",
+      "datetime": "Feb 21, 2023 2:24:37 PM",
+      "body": "hooho"
+    }
+  ]
+}
